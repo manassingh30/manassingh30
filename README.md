@@ -21,8 +21,8 @@ I love tearing through any book that is remotely related to software development
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET)  | 7.2 CGPA | Nov 21 - Current |
-| 12 (PCM) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHiLA6xbtZJB-kpzF57VjI8P2UxVi6KLDGSUPDFM46fgKwMdCgaQpXejaxJQP3O17hVUo&usqp=CAU" width="30" height="30"/> | Cambridge School Greater Noida | 90% | 2021 |
+| BTech (CSE) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET)  | 7.12 CGPA | Nov 21 - Current |
+| 12 (PCM) | <img src="https://teachmint.storage.googleapis.com/profile_images/6b1bea2a-5dd4-4876-8d17-d9e9b332e9e4.jpg" width="30" height="30"/> | Sant Atulanand Convent School | 86% | 2021 |
 
 <br>
 
