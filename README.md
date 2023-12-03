@@ -7,7 +7,7 @@ I love tearing through any book that is remotely related to software development
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 Can also connect with me on [https://www.commudle.com/users/05a577253cb7ab152741f58eaad2a9fd](https://www.commudle.com/users/05a577253cb7ab152741f58eaad2a9fd)
+- 👨‍💻 Can also connect with me on [Commudle](https://www.commudle.com/users/05a577253cb7ab152741f58eaad2a9fd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
