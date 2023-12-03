@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas Singh</h1>
 <h3 align="center">A passionate frontend developer from Noida, India.</h3>
 <p>I am a student who is extremely passionate about learning new languages, algorithms, compilers, and many more to explore. I enjoy taking up new challenges and working until the task I have taken up is completed. I have learned and practiced C and C++ for over a year. 
-I love tearing through any book that is remotely related to software development or data science. The enthusiasm and happiness when I printed 'Hello world' carried forth till date. I believe and I know that there is yet more to learn, yet more to solve, yet more to build which is my driving force. And for this I m grateful.</p>
+I love tearing through any book that is remotely related to software development or data science. The enthusiasm and happiness when I printed 'Hello world' carried forth till date. I believe and I know that there is yet more to learn, yet more to solve, yet more to build which is my driving force.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manassingh1339?t=annfr7-g3ksje4k-msefka&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manassingh1339?t=annfr7-g3ksje4k-msefka&s=09" height="30" width="40" /></a>
