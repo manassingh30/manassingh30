@@ -13,7 +13,6 @@ I love tearing through any book that is remotely related to software development
 <p align="left">
 <a href="https://twitter.com/manassingh1339?t=annfr7-g3ksje4k-msefka&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manassingh1339?t=annfr7-g3ksje4k-msefka&s=09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manas-singh-332951241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas-singh-332951241" height="30" width="40" /></a>
-<a href="https://instagram.com/manassingh462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manassingh462" height="30" width="40" /></a>
 <a href="mailto:singhmanas876@gmail.com" target="blank"><img align="center" src="https://github.com/shruti-mayank/shruti-mayank/blob/main/assets/gmail.png" alt="_ansuman_behera_/" height="30" width="40" /></a>
 </p>
 
