@@ -27,7 +27,7 @@ My journey started with printing a simple "Hello World", and since then, the dri
 
 | Qualification | Logo | Institute | Score | Year |
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE - Data Science) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET) | 7.12 CGPA | 2021 - 2025 |
+| BTech (CSE - Data Science) | <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Galgotias_University_logo_seal.jpg" width="30" height="30"/> | Galgotias College of Engineering and Technology (GCET) | 7.46 CGPA | 2021 - 2025 |
 | 12th (PCM) | <img src="https://yt3.googleusercontent.com/81CxxA2fKdPvCMMxWp96QYo3adpYo8rDExFuaWDexeYVycr0zO_Zat2XJoWIlTZvMn_wLiRvQg=s900-c-k-c0x00ffffff-no-rj" width="30" height="30"/> | Sant Atulanand Convent School | 86% | 2021 |
 
 <br>
