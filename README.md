@@ -8,7 +8,7 @@ Currently, I’m working as an <b>Associate Software Engineer at Centelli</b>, w
 My journey started with printing a simple "Hello World", and since then, the drive to learn, build, and innovate has kept me going.
 </p>
 
-- 🔭 I’m currently working on **AI/ML projects and automation workflows** at Centelli  
+- 🔭 I’m currently working at Centelli.
 - 🌱 I’m currently learning **Deep Learning and Advanced ML**  
 - 👨‍💻 Check out my work on [Portfolio](https://manassingh30.github.io/Portfolio/)  
 - 💡 Published research: [Flood Risk Mapping and Analysis Using Machine Learning]  
